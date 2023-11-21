@@ -1,0 +1,38 @@
+Assignment
+
+   1) What is the Internet? Explain in your own words
+Answer:The Internet is like a giant web connecting computers all over the world. It lets people
+share information, like pictures, videos, and messages. You can explore websites, play games,
+and talk to friends online. It's like a big library where you can find answers to almost any
+question. To use the Internet, you need a device like a computer or phone and a connection,
+usually through Wi-Fi or cables.
+
+   2) What is a web browser? Explain in your own words
+Answer: A web browser is like a digital window to the Internet. It's a program on your computer
+or phone that lets you visit websites. You type a web address, and the browser fetches and
+displays the site. You can click on links, watch videos, and interact with different web pages.
+Popular browsers include Chrome, Firefox, and Safari. Browsers help us navigate and explore
+the vast content available on the Internet.
+
+   3) What is a browser engine? Explain in your own words.
+Answer: A browser engine is like the brain inside a web browser. It interprets the code of
+websites and turns it into what we see on our screens. It's responsible for rendering text, images,
+and interactive elements. Different browsers may use different engines, like Blink in Chrome or
+Gecko in Firefox. The engine plays a crucial role in how fast and smoothly a browser can display
+web content. It's essentially the behind-the-scenes technology that brings websites to life on our
+devices.
+
+   4) What is a static site? Explain in your own words.
+Answer: A static site is like a digital brochure that stays the same for every visitor. Its content is
+fixed and doesn't change often. Unlike dynamic sites, it doesn't pull information from a database
+or allow user interactions. Static sites are simple and fast but may lack features like personalized
+content or real-time updates. They're well-suited for straightforward information presentation,
+like company portfolios or personal blogs with relatively stable content.
+
+   5) What is a dynamic site? Explain in your own words.
+Answer: A dynamic site is like a constantly changing digital space. It can display personalized
+content based on user interactions or data from a database. Unlike static sites, dynamic sites are
+more interactive and can update in real-time. They often include features like user accounts,
+comments, and dynamic forms. Examples include social media platforms, e-commerce websites,
+and news portals, where content adapts based on user preferences and actions.
+
